@@ -8,16 +8,16 @@ I am a Discord and WikiMedia developer. You can contact me on Discord (In profil
 
 Interests/Hobbies/Specialties:
 
-`Discord.python
-Discord.javascript
-JavaScript
-Python3
-HTML5
-Linux Mint CMD
-Kali Linux CMD
-NPM 
-CSS
-Social Engineering 
-WikipediaAPI
-Automated User Accounts`
+* Discord.python
+* Discord.javascript
+* JavaScript
+* Python3
+* HTML5
+* Linux Mint CMD
+* Kali Linux CMD
+* NPM 
+* CSS
+* Social Engineering 
+* WikipediaAPI
+* Automated User Accounts
 
