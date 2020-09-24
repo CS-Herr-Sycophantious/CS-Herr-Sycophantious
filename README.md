@@ -1,21 +1,16 @@
 ### Hi there 👋
 
-I’m working on my Superflat Explosives exploitation series.
-I’m currently learning Bash, PHP, JS, and CSS.
-I am a Discord and WikiMedia developer. You can contact me on Discord (In profile) for more info.
-Interests/Hobbies/Specialties:
+Hobbies:
 
-* Discord.python
-* Discord.javascript
-* JavaScript
-* Python3
-* HTML5
-* Linux Mint CMD
-* Kali Linux CMD
-* NPM 
-* CSS
-* Social Engineering 
+* Discord.js
+* Discord.py
 * WikipediaAPI
-* Automated User Accounts
+* HTML5
+* JavaScript
+* Python
+* WikiMedia
+* Boilerplate
+* NPM
+* CMD
 
 See a list of my repositories at https://cs-anti.github.io
