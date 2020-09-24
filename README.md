@@ -9,7 +9,6 @@ Hobbies:
 * JavaScript
 * Python
 * WikiMedia
-* Boilerplate
 * NPM
 * CMD
 
