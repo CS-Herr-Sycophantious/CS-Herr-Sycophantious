@@ -9,7 +9,5 @@ Hobbies:
 * JavaScript
 * Python
 * WikiMedia
-* NPM
-* CMD
 
 See a list of my repositories at https://cs-anti.github.io
